@@ -1,4 +1,16 @@
-# Instrucciones (Título)
+# Carnitas en Olla de Presión
+
+## Ingredientes
+|  Ingrediente | Cantidades |
+| ------------ | ------------ |
+| Carne de cerdo |  1 Kg con poca grasa y sin hueso (espaldilla, lomo alto, tapilla, etc.) |
+| Manteca de cerdo  |  1 cucharada (yo pongo aceite de girasol) |
+| Dientes de ajo  | 3 |
+| Zumo de naranja  | 1/2 taza |
+| Leche evaporada (Ideal)  | 1/2 taza |
+| Sal y pimienta  | Al gusto |
+| Salsas  | Para acompañar |
+
 
 <p align="center">
 <img src="images/image-01.jpeg" width="350">
