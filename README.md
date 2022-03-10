@@ -1,6 +1,8 @@
 # Carnitas en Olla de Presión
 
 ## Ingredientes
+<div align="center">
+  
 |  Ingrediente | Cantidades |
 | ------------ | ------------ |
 | Carne de cerdo |  1 Kg con poca grasa y sin hueso (espaldilla, lomo alto, tapilla, etc.) |
@@ -10,7 +12,8 @@
 | Leche evaporada (Ideal)  | 1/2 taza |
 | Sal y pimienta  | Al gusto |
 | Salsas  | Para acompañar |
-
+  
+</div>
 
 <p align="center">
 <img src="images/image-01.jpeg" width="350">
