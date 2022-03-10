@@ -1,4 +1,4 @@
-# Instrucciones
+# Instrucciones (Título)
 
 <p align="center">
 <img src="images/image-01.jpeg" width="350">
