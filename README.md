@@ -47,7 +47,7 @@ El README.md debe tener las instrucciones para cocinar un platillo, el que usted
 
 ## Video
 
-[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=9QSgB9APYV4)
+[![Alt text](https://img.youtube.com/vi/9QSgB9APYV4/0.jpg)](https://www.youtube.com/watch?v=9QSgB9APYV4)
 
 
 ## El buen trabajo se recompensa
