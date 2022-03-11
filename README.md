@@ -24,10 +24,14 @@
   
 </div>
   
+<div align="center">
+
 ## Video para antojar
 
 [![Alt text](https://img.youtube.com/vi/M4FdvDrOJvc/0.jpg)](https://www.youtube.com/watch?v=M4FdvDrOJvc)
 
+</div>
+  
 ## 1. Crear repositorio
 
 Crear un repositorio `público` en GitHub. Puede ser creado por cualquier integrante (no necesariamente el líder). 
