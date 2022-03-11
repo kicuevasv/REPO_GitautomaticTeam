@@ -9,6 +9,7 @@
 </p>
 
 ## Ingredientes
+
 <div align="center">
   
 |  Ingrediente | Cantidades |
