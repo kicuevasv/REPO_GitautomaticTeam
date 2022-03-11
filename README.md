@@ -21,6 +21,8 @@
 | Sal y pimienta  | Al gusto |
 | Salsas  | Para acompañar |
   
+</p>
+  
 ## Video para antojar
 
 [![Alt text](https://img.youtube.com/vi/M4FdvDrOJvc/0.jpg)](https://www.youtube.com/watch?v=M4FdvDrOJvc)
