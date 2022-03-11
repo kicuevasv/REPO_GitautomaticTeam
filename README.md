@@ -83,3 +83,5 @@ De forma adicional, les comparto una tabla en la que ustedes podrán ganar punto
 Para el tema del trabajo en equipo, deberán compartir evidencia y anécdotas de los retos que enfrentaron. Aquellos que sean sobresalientes podrán ganar las participaciones que se indican en la tabla. 
 
 *Las participaciones son adicionales al score que tengan en el proyecto* 
+## PROCESO
+1. Cortamos la carne en trozos regulares y ponemos a freír en la olla con la cucharada de manteca y los dientes de ajo.
