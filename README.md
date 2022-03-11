@@ -1,4 +1,4 @@
-<img src="images/logoteam.PNG" width="150">
+<img src="images/logoteam.PNG" width="200">
 
 
 <div align="center">
