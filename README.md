@@ -21,13 +21,7 @@
 | Sal y pimienta  | Al gusto |
 | Salsas  | Para acompañar |
   
-</div>
-
-<p align="center">
-<img src="images/image-02.jpeg" width="350">
-</p>
-
-## Video para antojar :P  Receta Completa
+## Video para antojar
 
 [![Alt text](https://img.youtube.com/vi/M4FdvDrOJvc/0.jpg)](https://www.youtube.com/watch?v=M4FdvDrOJvc)
 
