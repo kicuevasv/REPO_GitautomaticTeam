@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-<img src="images/image-01.jpeg" width="350">
+<img src="images/image-02.jpeg" width="350">
 </p>
 
 ## Video para antojar :P  Receta Completa
