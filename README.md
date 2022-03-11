@@ -6,7 +6,7 @@
   
 <p align="center">
 <img src="images/image-02.jpeg" width="350">
-</p>
+</div>
 
 ## Ingredientes
 
@@ -22,7 +22,7 @@
 | Sal y pimienta  | Al gusto |
 | Salsas  | Para acompañar |
   
-</p>
+</div>
   
 ## Video para antojar
 
