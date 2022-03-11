@@ -1,3 +1,6 @@
+<img src="images/logoteam.PNG" width="350">
+
+
 <div align="center">
 
 # Carnitas en Olla de Presión
