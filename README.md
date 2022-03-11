@@ -1,5 +1,9 @@
 # Carnitas en Olla de Presión
 
+p align="center">
+<img src="images/image-02.jpeg" width="350">
+</p>
+
 ## Ingredientes
 <div align="center">
   
