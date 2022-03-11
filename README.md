@@ -6,8 +6,6 @@
 # Carnitas en Olla de Presión
 
 </div>  
-  
-<p align="center">
 <img src="images/image-02.jpeg" width="350">
 </div>
 
