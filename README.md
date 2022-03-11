@@ -21,7 +21,7 @@
 
 ## Video para antojar :P  Receta Completa
 
-[![Alt text](https://img.youtube.com/vi/9QSgB9APYV4/0.jpg)](https://www.youtube.com/watch?v=9QSgB9APYV4)
+[![Alt text](https://img.youtube.com/vi/M4FdvDrOJvc/0.jpg)](https://www.youtube.com/watch?v=M4FdvDrOJvc)
 
 ## 1. Crear repositorio
 
