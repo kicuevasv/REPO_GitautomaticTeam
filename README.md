@@ -43,4 +43,4 @@
   
   Se recomienda degustar con unas ricas y frias cervezas.
   
-  <img src="images/cheve.PNG" width="250">
+  <img src="images/cheve.png" width="250">
