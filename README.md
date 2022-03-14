@@ -38,3 +38,9 @@
 
 ## PROCESO
 1. Cortamos la carne en trozos regulares y ponemos a freír en la olla con la cucharada de manteca y los dientes de ajo.
+  
+## SUGERENCIA DEL CHEF.
+  
+  Se recomienda degustar con unas ricas y frias cervezas.
+  
+  
