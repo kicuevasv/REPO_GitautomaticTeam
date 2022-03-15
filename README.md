@@ -41,6 +41,7 @@
   <img src="https://cocinaypunto.com/wp-content/uploads/2021/02/1.jpg">
   
 2. Cuando la carne esté bien sellada, vaciamos zumo de naranja, leche evaporada y pimienta al gusto (no añadimos agua). Cerramos la olla y ponemos a cocer a fuego medio hasta que esté suave, entre 25 a 30 min.
+ <img src="https://cocinaypunto.com/wp-content/uploads/2021/02/2.jpg">
   
 3. Abrimos la olla, salamos al gusto y ponemos a hervir a fuego fuerte por otros 15 o 20 min. o hasta que se evaporen los líquidos y la carne dore sin quemarse.  Añadimos sal. Cuidamos para que no quede muy reseca.
   
