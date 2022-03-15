@@ -51,4 +51,4 @@ Con la cuchara se deshebra fácilmente la carne.
   
   Se recomienda degustar con unas ricas y frias cervezas.
   
-  <img src="cheve.png" width="450">
+  <img src="images/cheve.png" width="450">
