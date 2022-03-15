@@ -38,7 +38,7 @@
 
 ## PROCESO
 1. Cortamos la carne en trozos regulares y ponemos a freír en la olla con la cucharada de manteca y los dientes de ajo.
-  <img scr="https://cocinaypunto.com/wp-content/uploads/2021/02/1.jpg">
+  <img src="https://cocinaypunto.com/wp-content/uploads/2021/02/1.jpg">
   
 2. Cuando la carne esté bien sellada, vaciamos zumo de naranja, leche evaporada y pimienta al gusto (no añadimos agua). Cerramos la olla y ponemos a cocer a fuego medio hasta que esté suave, entre 25 a 30 min.
   
