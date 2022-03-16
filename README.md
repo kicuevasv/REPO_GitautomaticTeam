@@ -14,7 +14,7 @@
 
 <div align="center">
   
-|  Ingrediente | Cantidades |
+|  Ingrediente | Cantidad |
 | ------------ | ------------ |
 | Carne de cerdo |  1 Kg con poca grasa y sin hueso (espaldilla, lomo alto, tapilla, etc.) |
 | Manteca de cerdo  |  1 cucharada (yo pongo aceite de girasol) |
@@ -34,8 +34,6 @@
 
 </div>
   
-
-
 
 ## PROCESO
 1. Cortamos la carne en trozos regulares y ponemos a freír en la olla con la cucharada de manteca y los dientes de ajo.
@@ -61,11 +59,3 @@ Con la cuchara se deshebra fácilmente la carne.
   
   <img src="images/cheve.png" width="450">
 
-    **Integrantes**
-
-[TOCM]
-
-[TOC]
-
-#Karla
-#Edgar
