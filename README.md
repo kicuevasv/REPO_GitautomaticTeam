@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Carnitas en Olla de Presión
+# Carnitas en olla de presión
 
 <p align="center"> 
 <img src="images/image-02.jpeg" width="350">
@@ -35,7 +35,7 @@
 </div>
   
 
-## PROCESO
+## Proceso
 1.Cortamos la carne en trozos regulares y ponemos a freír en la olla con la cucharada de manteca y los dientes de ajo.
   <img src="https://cocinaypunto.com/wp-content/uploads/2021/02/1.jpg">
   
@@ -55,7 +55,7 @@
   
   <img src="https://cocinaypunto.com/wp-content/uploads/2021/02/5.jpg">
   
-## SUGERENCIA DEL CHEF
+## Sugerencia del chef
   
   Se recomienda degustar con unas ricas y frias cervezas.
   
