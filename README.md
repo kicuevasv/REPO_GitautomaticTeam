@@ -61,3 +61,19 @@
   
   <img src="images/cheve.png" width="450">
 
+## Integrantes
+
+<div align="center">
+  
+|  Colaborador | Area |
+| ------------ | ------------ |
+| damador | Fabrica de pruebas |
+| eaalmonasis  |  Infra LINUX |
+| kicuevasv  | Base datos ORACLE |
+| hfulloam  | HyperVisores|
+| eczepedah  | Backup |
+| jcmartinez  | IM PCs Novell |
+  
+</div>
+  
+<div align="center">
