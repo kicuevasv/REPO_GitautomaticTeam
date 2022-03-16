@@ -1,5 +1,5 @@
 
-<img src="images/logoteam.PNG" style='border:2px solid brush' width="250">
+<img src="images/logoteam.PNG" width="250">
 
 
 [TOCM]
