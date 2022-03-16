@@ -44,14 +44,13 @@
  <img src="https://cocinaypunto.com/wp-content/uploads/2021/02/2.jpg">
   
 3.Abrimos la olla, salamos al gusto y ponemos a hervir a fuego fuerte por otros 15 o 20 min. o hasta que se evaporen los líquidos y la carne dore sin quemarse.  Añadimos sal. Cuidamos para que no quede muy reseca.
+  
   <img src="https://cocinaypunto.com/wp-content/uploads/2021/02/3.jpg"> 
-Con la cuchara se deshebra fácilmente la carne.  
+
+  Con la cuchara se deshebra fácilmente la carne.  
+  
   <img src="https://cocinaypunto.com/wp-content/uploads/2021/02/4.jpg">
-  
-
-  
-
-  
+    
 4.Se sirve con tortillas de maíz, frijoles refritos, salsas y guacamole.
   
   <img src="https://cocinaypunto.com/wp-content/uploads/2021/02/5.jpg">
