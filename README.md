@@ -2,7 +2,6 @@
 <img src="images/logoteam.PNG" width="250">
 
 
-[TOCM]
 <div align="center">
 
 # Carnitas en Olla de Presión
@@ -61,3 +60,12 @@ Con la cuchara se deshebra fácilmente la carne.
   Se recomienda degustar con unas ricas y frias cervezas.
   
   <img src="images/cheve.png" width="450">
+
+    **Integrantes**
+
+[TOCM]
+
+[TOC]
+
+#Karla
+#Edgar
